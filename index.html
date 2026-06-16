@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Practice Projects</title>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: #f4f4f4;
+        color: #333;
+        min-height: 100vh;
+        padding: 2rem;
+      }
+
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+      }
+
+      h1 {
+        text-align: center;
+        margin-bottom: 0.5rem;
+      }
+
+      p {
+        text-align: center;
+        margin-bottom: 2rem;
+        color: #666;
+      }
+
+      .projects {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1rem;
+      }
+
+      .project-card {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 12px;
+        text-decoration: none;
+        color: inherit;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition:
+          transform 0.2s ease,
+          box-shadow 0.2s ease;
+      }
+
+      .project-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+      }
+
+      .project-card h2 {
+        margin-bottom: 0.5rem;
+        font-size: 1.2rem;
+      }
+
+      .project-card p {
+        text-align: left;
+        margin: 0;
+        color: #666;
+        font-size: 0.95rem;
+      }
+
+      footer {
+        text-align: center;
+        margin-top: 3rem;
+        color: #888;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>JavaScript Practice Projects</h1>
+      <p>A collection of projects built while learning JavaScript.</p>
+
+      <div class="projects">
+        <a href="./project1/" class="project-card">
+          <h2>Calculator App</h2>
+          <p>
+            A simple calculator built with HTML, CSS, and JavaScript that
+            performs basic arithmetic operations.
+          </p>
+        </a>
+      </div>
+
+      <footer>Built with HTML, CSS, and JavaScript.</footer>
+    </div>
+  </body>
+</html>
