@@ -1,1 +1,24 @@
-# javascript-practice
+# JavaScript Practice Projects
+
+A collection of projects built while learning and practicing JavaScript. This repository serves as a portfolio of small projects focused on improving JavaScript fundamentals, DOM manipulation, event handling, and interactive web application development.
+
+## Live Demo
+
+Visit the project showcase:
+
+https://sayammaha10.github.io/javascript-practice/
+
+---
+
+## Projects
+
+### 1. Calculator App
+
+A simple calculator built with HTML, CSS, and JavaScript that performs basic arithmetic operations through an interactive and responsive user interface.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/calculator-app/
+
+---
+
+More projects will be added over time.
