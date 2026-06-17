@@ -19,6 +19,13 @@ A simple calculator built with HTML, CSS, and JavaScript that performs basic ari
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/calculator-app/
 
+### 2. Counter App
+
+A simple counter built with HTML, CSS, and JavaScript that allows users to increase, decrease, and reset a numeric value using interactive buttons.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/counter-app/
+
 ---
 
 More projects will be added over time.
