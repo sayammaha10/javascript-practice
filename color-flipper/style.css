@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #f1f5f8;
+}
+
+nav {
+  height: 3rem;
+  background-color: #fff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+}
+
+.nav-center {
+  width: 90vw;
+  max-width: 620px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-center h4 {
+  color: #49a6ea;
+  letter-spacing: 0.1rem;
+}
+
+.nav-links {
+  display: flex;
+}
+
+ul {
+  list-style-type: none;
+}
+
+nav a {
+  text-decoration: none;
+  letter-spacing: 0.1rem;
+  margin-right: 1rem;
+  color: #063251;
+  font-weight: 700;
+  transition: all 0.3s linear;
+}
+
+nav a:hover {
+  color: #49a6ea;
+}
+
+main {
+  min-height: calc(100vh - 3rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.container h2 {
+  background-color: #222;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  margin-bottom: 2.5rem;
+  font-size: 2.5rem;
+  letter-spacing: 0.1rem;
+  line-height: 1;
+}
+
+.color-code {
+  color: #49a6ea;
+}
+
+.btn {
+  background: transparent;
+  color: #222;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+  transition: all 0.3s linear;
+  border: 2px solid #222;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  padding: 0.75rem 1.25rem;
+}
+
+.btn:hover {
+  background-color: #222;
+  color: #fff;
+}
