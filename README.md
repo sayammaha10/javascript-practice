@@ -26,6 +26,13 @@ A simple counter built with HTML, CSS, and JavaScript that allows users to incre
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/counter-app/
 
+### 3. Color Flipper
+
+A simple color flipper built with HTML, CSS, and JavaScript that changes the background color randomly and displays the current color code.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/color-flipper/
+
 ---
 
 More projects will be added over time.
