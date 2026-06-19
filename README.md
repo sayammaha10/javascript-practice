@@ -33,6 +33,13 @@ A simple color flipper built with HTML, CSS, and JavaScript that changes the bac
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/color-flipper/
 
+### 4. Age Calculator
+
+A simple age calculator built with HTML, CSS, and JavaScript that calculates a person's age in years, months, and days based on their date of birth.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/age-calculator/
+
 ---
 
 More projects will be added over time.
