@@ -40,6 +40,13 @@ A simple age calculator built with HTML, CSS, and JavaScript that calculates a p
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/age-calculator/
 
+### 5. Password Strength Indicator
+
+A simple password strength indicator built with HTML, CSS, and JavaScript that evaluates password strength and provides visual feedback based on character requirements.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/password-strength-indicator/
+
 ---
 
 More projects will be added over time.
