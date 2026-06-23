@@ -47,6 +47,13 @@ A simple password strength indicator built with HTML, CSS, and JavaScript that e
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/password-strength-indicator/
 
+### 6. Image Gallery
+
+A simple image gallery built with HTML, CSS, and JavaScript that allows users to browse images horizontally with smooth scrolling and navigation controls.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/image-gallery/
+
 ---
 
 More projects will be added over time.
