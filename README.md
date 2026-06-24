@@ -54,6 +54,13 @@ A simple image gallery built with HTML, CSS, and JavaScript that allows users to
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/image-gallery/
 
+### 7. Digital Clock
+
+A simple digital clock built with HTML, CSS, and JavaScript that displays the current time in hours, minutes, and seconds with A.M. and P.M. indicators.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/digital-clock/
+
 ---
 
 More projects will be added over time.
