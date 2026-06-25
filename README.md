@@ -61,6 +61,13 @@ A simple digital clock built with HTML, CSS, and JavaScript that displays the cu
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/digital-clock/
 
+### 8. Stopwatch
+
+A simple stopwatch built with HTML, CSS, and JavaScript that allows users to start, stop, and reset elapsed time with an interactive interface.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/stopwatch/
+
 ---
 
 More projects will be added over time.
