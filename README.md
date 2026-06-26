@@ -68,6 +68,13 @@ A simple stopwatch built with HTML, CSS, and JavaScript that allows users to sta
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/stopwatch/
 
+### 9. Random Password Generator
+
+A simple random password generator built with HTML, CSS, and JavaScript that creates secure passwords and allows users to copy them to the clipboard.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/random-password-generator/
+
 ---
 
 More projects will be added over time.
