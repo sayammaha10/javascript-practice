@@ -75,6 +75,13 @@ A simple random password generator built with HTML, CSS, and JavaScript that cre
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/random-password-generator/
 
+### 10. Drag & Drop
+
+A simple drag-and-drop application built with HTML, CSS, and JavaScript that allows users to move items between two containers using the HTML Drag and Drop API.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/drag-and-drop/
+
 ---
 
 More projects will be added over time.
