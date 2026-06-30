@@ -82,6 +82,13 @@ A simple drag-and-drop application built with HTML, CSS, and JavaScript that all
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/drag-and-drop/
 
+### 11. Custom Select Menu
+
+A simple custom select menu built with HTML, CSS, and JavaScript that allows users to choose an option from a styled dropdown menu with interactive animations.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/custom-select-menu/
+
 ---
 
 More projects will be added over time.
