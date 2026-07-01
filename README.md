@@ -89,6 +89,13 @@ A simple custom select menu built with HTML, CSS, and JavaScript that allows use
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/custom-select-menu/
 
+### 12. Form Validation
+
+A simple form validation project built with HTML, CSS, and JavaScript that validates user input in real time and provides instant feedback for form fields.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/form-validation/
+
 ---
 
 More projects will be added over time.
