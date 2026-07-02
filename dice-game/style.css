@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Rye&display=swap");
+
+body {
+  background-color: #36454f;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  margin: 25px;
+  font-family: "Rye", serif;
+  font-size: 5rem;
+  color: #d3d3d3;
+}
+
+p {
+  font-family: "Lora", serif;
+  color: #d3d3d3;
+  font-size: 2rem;
+}
+
+.dice {
+  display: inline-block;
+}
+
+img {
+  width: 70%;
+}
+
+.btn {
+  display: block;
+  margin: 3rem auto 0;
+  font-family: "Lora", serif;
+  font-size: 1.5rem;
+  color: #d3d3d3;
+  cursor: pointer;
+  padding: 1.25rem 5rem;
+  border-radius: 0.375rem;
+  border: 1px solid #d3d3d3;
+  outline: none;
+  background-color: transparent;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #5f7c89;
+}
