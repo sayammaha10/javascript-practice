@@ -96,6 +96,13 @@ A simple form validation project built with HTML, CSS, and JavaScript that valid
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/form-validation/
 
+### 13. Dice Game
+
+A simple dice game built with HTML, CSS, and JavaScript that simulates rolling two dice and determines the winner based on the higher roll.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/dice-game/
+
 ---
 
 More projects will be added over time.
