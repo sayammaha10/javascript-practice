@@ -103,6 +103,13 @@ A simple dice game built with HTML, CSS, and JavaScript that simulates rolling t
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/dice-game/
 
+### 14. Quote Generator
+
+A simple quote generator built with HTML, CSS, and JavaScript that fetches random quotes from an API and allows users to share them on Twitter.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/quote-generator/
+
 ---
 
 More projects will be added over time.
