@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Toast Notification and Pop-up</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="buttons">
+      <button onclick="showToast(successMessage)">Success</button>
+      <button onclick="showToast(errorMessage)">Error</button>
+      <button onclick="showToast(invalidMessage)">Invalid</button>
+      <button onclick="openPopup()">Pop-up</button>
+    </div>
+    <div class="pop-up">
+      <img src="./images/tick.png" />
+      <h2>Thank You!</h2>
+      <p>Your detail has been successfully submitted. Thanks!</p>
+      <button type="button" onclick="closePopup()">OK</button>
+    </div>
+    <div id="toast-box"></div>
+    <!-- javascript -->
+    <script src="./app.js"></script>
+  </body>
+</html>
