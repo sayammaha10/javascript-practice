@@ -110,6 +110,13 @@ A simple quote generator built with HTML, CSS, and JavaScript that fetches rando
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/quote-generator/
 
+### 15. Toast Notification and Pop-up
+
+A simple toast notification and pop-up project built with HTML, CSS, and JavaScript that displays interactive toast messages and a modal pop-up with smooth animations.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/toast-notification-and-popup/
+
 ---
 
 More projects will be added over time.
