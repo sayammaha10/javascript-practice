@@ -117,6 +117,13 @@ A simple toast notification and pop-up project built with HTML, CSS, and JavaScr
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/toast-notification-and-popup/
 
+### 16. QR Code Generator
+
+A simple QR code generator built with HTML, CSS, and JavaScript that generates QR codes from text or URLs using an online API.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/qr-code-generator/
+
 ---
 
 More projects will be added over time.
