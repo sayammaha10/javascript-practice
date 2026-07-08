@@ -124,6 +124,13 @@ A simple QR code generator built with HTML, CSS, and JavaScript that generates Q
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/qr-code-generator/
 
+### 17. Text to Speech
+
+A simple text-to-speech application built with HTML, CSS, and JavaScript that converts text into spoken audio using the Web Speech API.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/text-to-speech/
+
 ---
 
 More projects will be added over time.
