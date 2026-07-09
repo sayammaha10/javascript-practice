@@ -131,6 +131,13 @@ A simple text-to-speech application built with HTML, CSS, and JavaScript that co
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/text-to-speech/
 
+### 18. To-Do List
+
+A simple to-do list application built with HTML, CSS, and JavaScript that allows users to add, complete, delete, and save tasks using local storage.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/to-do-list/
+
 ---
 
 More projects will be added over time.
