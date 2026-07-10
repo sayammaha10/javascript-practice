@@ -138,6 +138,13 @@ A simple to-do list application built with HTML, CSS, and JavaScript that allows
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/to-do-list/
 
+### 19. Simon Game
+
+A simple Simon game built with HTML, CSS, JavaScript, and jQuery that challenges players to memorize and repeat increasingly complex color sequences.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/simon-game/
+
 ---
 
 More projects will be added over time.
