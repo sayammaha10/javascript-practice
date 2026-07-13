@@ -145,6 +145,13 @@ A simple Simon game built with HTML, CSS, JavaScript, and jQuery that challenges
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/simon-game/
 
+### 20. Notes App
+
+A simple notes application built with HTML, CSS, and JavaScript that lets users create, edit, delete, and save notes using Local Storage.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/notes-app/
+
 ---
 
 More projects will be added over time.
