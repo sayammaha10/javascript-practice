@@ -152,6 +152,13 @@ A simple notes application built with HTML, CSS, and JavaScript that lets users 
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/notes-app/
 
+### 21. Email Subscription Form
+
+A simple email subscription form built with HTML, CSS, and JavaScript that submits email addresses to Google Sheets using Google Apps Script.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/email-subscription-form/
+
 ---
 
 More projects will be added over time.
