@@ -159,6 +159,13 @@ A simple email subscription form built with HTML, CSS, and JavaScript that submi
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/email-subscription-form/
 
+### 22. Rock Paper Scissors Game
+
+A classic Rock Paper Scissors game built with HTML, CSS, and JavaScript where players compete against the computer with live score tracking and visual win, lose, and draw effects.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/rock-paper-scissors/
+
 ---
 
 More projects will be added over time.
