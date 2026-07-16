@@ -166,6 +166,13 @@ A classic Rock Paper Scissors game built with HTML, CSS, and JavaScript where pl
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/rock-paper-scissors/
 
+### 23. Music Player
+
+A music player built with HTML, CSS, and JavaScript that allows users to play, pause, switch between songs, view song information, track playback progress, and seek through the audio.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/music-player/
+
 ---
 
 More projects will be added over time.
