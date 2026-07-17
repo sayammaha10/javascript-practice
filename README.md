@@ -173,6 +173,13 @@ A music player built with HTML, CSS, and JavaScript that allows users to play, p
 **Live Demo:**
 https://sayammaha10.github.io/javascript-practice/music-player/
 
+### 24. Weather App
+
+A weather app built with HTML, CSS, and JavaScript that uses the OpenWeatherMap API to display current weather information, including temperature, humidity, wind speed, and weather conditions for searched cities.
+
+**Live Demo:**
+https://sayammaha10.github.io/javascript-practice/weather-app/
+
 ---
 
 More projects will be added over time.
